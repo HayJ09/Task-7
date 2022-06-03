@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.row {
+    background-image: url(../Landing-page-sec-6/bck.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    /* font-family: 'MuseoModerno', cursive; */
+    /* font-family: 'Space Mono', monospace; */
+}
