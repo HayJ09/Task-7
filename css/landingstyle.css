@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    /* font-family: 'MuseoModerno', cursive; */
+    /* font-family: 'Space Mono', monospace; */
+}
+
+/* landing page navbar, hero and about style */
+
+.firstview {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.347), rgba(0, 0, 0, 0.948)), url(/img/topHead.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo-text h4, .logo-text p {
+    font-size: 14px;
+    line-height: 15px;
+}
+
+.section-2-img {
+    width: 55%;
+    margin: auto;
+    text-align: right;
+}
+.firstview h2 {
+    color: #B91869 !important;;
+}
+
+
