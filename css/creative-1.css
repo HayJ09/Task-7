@@ -2,31 +2,21 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-.row {
-    background-image: url(../Landing-page-sec-6/bck.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
     color: white;
+    overflow-x: hidden;
     font-family: 'Montserrat', sans-serif;
     /* font-family: 'MuseoModerno', cursive; */
     /* font-family: 'Space Mono', monospace; */
 }
-.firstview {
-    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.347), rgba(0, 0, 0, 0.948)), url(/img/topHead.png);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 
-.firstview {
-    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.347), rgba(0, 0, 0, 0.948)), url(/img/topHead.png);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 
+.joke{
+    background-image: linear-gradient(to bottom, #1d252ff0, #1d252ff0), url(../Landing-page-sec-6/Mkutano_II\ -304\ 1.png);
+    /* color: #1D252F; */
+}
+.hero-sec {
+    background-image: url(../Landing-page-sec-6/Green-bg.png);
+}
 .logo-text h4, .logo-text p {
     font-size: 14px;
     line-height: 15px;
@@ -38,5 +28,5 @@
     text-align: right;
 }
 .firstview h2 {
-    color: #B91869 !important;;
+    color: #B91869 !important;
 }
